@@ -1,1 +1,12 @@
-
+{
+  "name": "aws-ecs-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "AWS ECS CI/CD Pipeline Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
