@@ -82,7 +82,7 @@ The ECS service launches new containers and the updated application becomes avai
 
 ### Amazon ECS Cluster and Service
 
-![ECS Cluster](screenshots/ecs-cluster.png)
+![ECS Cluster](screenshots/ecs-clusterand-service.png)
 
 ### AWS CodeBuild
 
